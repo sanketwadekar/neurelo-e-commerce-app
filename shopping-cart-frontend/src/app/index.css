@@ -1,0 +1,119 @@
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+		"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+		sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+.product-list-image {
+	max-width: 100%;
+	height: 20em;
+	overflow: hidden;
+	border: hidden;
+	border-radius: 0.25em;
+}
+
+.product-list-image img {
+	width: 100%;
+	min-height: 100%;
+	height: auto;
+}
+
+.carousel {
+	height: 75vh;
+}
+
+.carousel-inner {
+	height: 100%;
+}
+
+.carousel-item {
+	height: 100%;
+	max-width: auto;
+	overflow: hidden;
+	background-color: rgba(239, 238, 237, 0.53);
+}
+
+.carousel-control-button {
+	border-radius: 2em;
+	padding: 1em 1.1em;
+	background-color: rgba(197, 197, 197, 0.389);
+	color: rgb(0, 0, 0);
+}
+
+.product-details-title {
+	color: rgb(104, 104, 102) !important;
+}
+
+.add-to-cart-btn:hover {
+	text-decoration: underline;
+}
+
+.cart-li {
+	max-height: 3em;
+	max-width: 100%;
+	overflow: hidden;
+}
+
+.cart-li img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.modal-content-style {
+	height: 75vh;
+}
+
+.product-card {
+	border: solid 1px #e3e3e3;
+	background-color: #ffffff;
+}
+
+.product-card-link {
+	text-decoration: none;
+	color: #000000;
+}
+
+/* .product-card-link {
+  text-decoration: "none";
+  color: "#000000";
+} */
+
+.star-gold {
+	color: #ffd700;
+}
+
+.carousel-image {
+	min-height: 100%;
+}
+
+.delete-icon {
+	color: #ff0000;
+	cursor: pointer;
+}
+
+.navbar-color {
+  background: #e8a735;
+}
+
+.navbar-links {
+  text-decoration: none;
+  color: #000000;
+}
+
+.order-item {
+	border: solid 1px white;
+	border-radius: 1em;
+}
+
+.login-container {
+	background-color: #e8a735;
+	height: 100vh;
+}

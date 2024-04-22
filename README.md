@@ -41,7 +41,6 @@ This project is a simple online shopping site similar to Amazon, allowing users 
 ![Orders](https://raw.githubusercontent.com/sanketwadekar/neurelo-e-commerce-app/main/assets/orders.png)
 *Orders page displays the items ordered by the user.*
 
-## Demo
 
 ## License
 
